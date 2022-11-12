@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on our discord server [Feedback Form](https://priyobroto04.github.io/Feedback-Form/).
+- 🔭 I’m currently mastering frontend and completing challenges in Frondend Mentor .
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love playing guitar. 
