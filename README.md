@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyobrotokar&label=Profile%20views&color=0e75b6&style=flat" alt="priyobrotokar" /> </p>
 
-- 🔭 I’m currently working on [FlickFinder](https://github.com/PriyobrotoKar/React-WebApp-FlickFinder)
+- 🔭 I’m currently working on a sample Strapi App
 
-- 🌱 I’m currently learning **ReactJS, Redux Toolkit and Framer Motion**
+- 🌱 I’m currently learning **NextJS and Strapi**
 
 - 🙂 Pronouns [He/Him](He/Him)
 
