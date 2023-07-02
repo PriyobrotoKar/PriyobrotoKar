@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyobrotokar&label=Profile%20views&color=0e75b6&style=flat" alt="priyobrotokar" /> </p>
 
-- 🔭 I’m currently working on a sample Strapi App
+- 🔭 I’m currently working on a [fullstack todo app](https://github.com/PriyobrotoKar/Next-Webapp-CheckOff)
 
 - 🌱 I’m currently learning **NextJS and Strapi**
 
