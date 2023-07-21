@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Spotify 2.0]()
 
-- 🌱 I’m currently learning **NextJS and Strapi**
+- 🌱 I’m currently learning **NextJS and Sanity IO**
 
 - 🙂 Pronouns [He/Him](He/Him)
 
