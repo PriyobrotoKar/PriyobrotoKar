@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyobrotokar&label=Profile%20views&color=0e75b6&style=flat" alt="priyobrotokar" /> </p>
 
-- 🔭 I’m currently working on [Spotify 2.0]()
+- 🔭 I’m currently working on [Spotify 2.0](https://github.com/PriyobrotoKar/Next-Webapp-JamSpace)
 
 - 🌱 I’m currently learning **NextJS and Appwrite**
 
