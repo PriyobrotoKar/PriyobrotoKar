@@ -1,28 +1,53 @@
-<h1>Hi 👋, I'm Priyobroto Kar</h1>
-<h3>I'm a front-end developer and a CS undergrad with a passion for web development to craft stunning and responsive websites that delight users and meet their needs.</h3>
+<h1 align="left">Hi 👋, I'm Priyobroto</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyobrotokar&label=Profile%20views&color=0e75b6&style=flat" alt="priyobrotokar" /> </p>
+###
 
-- 🔭 I’m currently working on [Spotify 2.0](https://github.com/PriyobrotoKar/Next-Webapp-JamSpace)
+<p align="left">I'm a front-end developer and a CS undergrad with a passion for web development to craft stunning and responsive websites.</p>
 
-- 🌱 I’m currently learning **NextJS and Appwrite**
+###
 
-- 🙂 Pronouns [He/Him](He/Him)
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning server-side development<br>🔭 I’m currently working on StorySpire (a full-stack blogging platform)<br>⚡ Fun fact I love playing guitar</p>
 
-- ⚡ Fun fact **I love playing guitar**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyobrotokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyobrotokar" height="30" width="40" /></a>
-<a href="https://instagram.com/_.d.a.n.t.e_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.d.a.n.t.e_._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyobroto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyobroto" height="30" width="40" /></a>
-</p>
+<h2 align="left">I code with</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> </p>
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyobrotokar&show_icons=true&theme=dark&locale=en&border_color=00000000" alt="priyobrotokar" /></p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyobrotokar&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="priyobrotokar" /></p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="36" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="36" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="36" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="36" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="36" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="36" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="36" alt="figma logo"  />
+</div>
 
-
+###
