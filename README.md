@@ -16,37 +16,37 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="html5 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="36" alt="css3 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="typescript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="react logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="redux logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="36" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/express/000000" height="36" alt="express logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="36" alt="prisma logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="firebase logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="36" alt="c logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="36" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="36" alt="figma logo"  />
 </div>
 
