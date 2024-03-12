@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning server-side development<br>🔭 I’m currently working on StorySpire (a full-stack blogging platform)<br>⚡ Fun fact I love playing guitar</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning server-side development<br>🔭 I’m currently working on BetterSS (a Screenshot Editor)<br>⚡ Fun fact I love playing guitar</p>
 
 ###
 
