@@ -2,11 +2,15 @@
 
 ###
 
-<p align="left">I'm a front-end developer and a CS undergrad with a passion for web development to craft stunning and responsive websites.</p>
+<p align="left">I'm a full-stack developer and a CS undergrad with a passion for web development to craft stunning and responsive websites.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning server-side development<br>🔭 I’m currently working on BetterSS (a Screenshot Editor)<br>⚡ Fun fact I love playing guitar</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning devops<br>🔭 I’m currently working on a react-native-chat-app<br>⚡ Fun fact I love playing guitar</p>
 
 ###
 
@@ -29,25 +33,27 @@
   <img width="8" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="redux logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="36" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="36" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="36" alt="prisma logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="36" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="36" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="docker logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="36" alt="kubernetes logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="36" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="36" alt="githubactions logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="amazonwebservices logo"  />
 </div>
 
 ###
