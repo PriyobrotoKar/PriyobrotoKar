@@ -19,41 +19,41 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="36" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="36" alt="redux logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="36" alt="kubernetes logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="36" alt="githubactions logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
