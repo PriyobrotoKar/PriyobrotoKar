@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a full-stack developer and a CS undergrad with a passion for web development to craft stunning and responsive websites.</p>
+<p align="left">I'm a <b>full-stack developer</b> and a <b>CS undergrad</b> with a passion for web development to <br/><b>craft stunning</b>  and <b>responsive websites</b>.</p>
 
 ###
 
@@ -47,6 +47,7 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="2" />
+    <br/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
