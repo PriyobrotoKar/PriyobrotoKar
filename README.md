@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning devops & cloud<br>🔭 I’m currently working on a <a href="https://github.com/PriyobrotoKar/brightpath">Live Based Cohort Platform</a>().<br>⚡ Fun fact I love playing guitar</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning devops & cloud<br>🔭 I’m currently working on a <a href="https://github.com/PriyobrotoKar/brightpath">Live Based Cohort Platform</a><br>⚡ Fun fact I love playing guitar</p>
 
 ###
 
