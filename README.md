@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning devops<br>🔭 I’m currently working on a react-native-chat-app<br>⚡ Fun fact I love playing guitar</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning devops & cloud<br>🔭 I’m currently working on a <a href="https://github.com/PriyobrotoKar/brightpath">Live Based Cohort Platform</a>().<br>⚡ Fun fact I love playing guitar</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+  <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -54,6 +54,16 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  </div>
+<br/>
+<span align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyobrotokar&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
+    <img width="20" />
+  <img width="390" height="auto" src="https://github-readme-stats.vercel.app/api?username=priyobrotokar&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+
+</span>
+
 </div>
+
 
 ###
